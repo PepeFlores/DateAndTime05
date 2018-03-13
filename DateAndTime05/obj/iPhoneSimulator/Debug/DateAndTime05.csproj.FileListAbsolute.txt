@@ -1,0 +1,9 @@
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/DateAndTime05/DateAndTime05/bin/iPhoneSimulator/Debug/DateAndTime05.exe
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/DateAndTime05/DateAndTime05/bin/iPhoneSimulator/Debug/DateAndTime05.pdb
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/DateAndTime05/DateAndTime05/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/DateAndTime05/DateAndTime05/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/_PartialAppManifest.items
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/DateAndTime05/DateAndTime05/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/_BundleResourceWithLogicalName.items
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/DateAndTime05/DateAndTime05/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/DateAndTime05/DateAndTime05/obj/iPhoneSimulator/Debug/DateAndTime05.csproj.CoreCompileInputs.cache
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/DateAndTime05/DateAndTime05/obj/iPhoneSimulator/Debug/DateAndTime05.exe
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/DateAndTime05/DateAndTime05/obj/iPhoneSimulator/Debug/DateAndTime05.pdb
